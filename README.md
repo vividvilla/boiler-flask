@@ -1,6 +1,6 @@
-# Flask Boiler
+# Boiler Flask
 
-Simple boiler plate for Flask test apps. It has nothin but a wrapper for running a hello world Flask app.
+Simple boiler plate for Flask test/sample apps. It has nothin but a wrapper for running a hello world Flask app.
 
 ## Run server
 
